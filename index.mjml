@@ -1,0 +1,250 @@
+<mjml>
+  <mj-head>
+    <mj-title>Редиска спешит вам на помощь!</mj-title>
+    <mj-preview>Редиска спешит вам на помощь!</mj-preview>
+    <mj-style>
+      @media (max-width: 500px) {
+        .text-mobile div {
+          font-size: 16px !important;
+        }
+
+        .padding-mobile {
+          padding-left: 30px !important;
+        }
+
+        .padding-mobile td {
+          padding-left: 0px !important;
+        }
+
+        .padding-mobile-special-offer td {
+          padding-left: 30px !important;
+        }
+
+        h1 {
+          font-size: 24px !important;
+          line-height: 31px !important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body width="600px" background-color="#a9e7fc">
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-image width="163px" align="center" padding="30px" src="https://sinicynapolina.ru/e-mail/images/logo.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-image width="480px" align="center" padding="20px" src="https://sinicynapolina.ru/e-mail/images/img-1.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text css-class="padding-mobile" color="#24363C" font-weight="bold" font-family="Helvetica" line-height="47px" align="left" padding="0 30px 20px 60px">
+          <h1 style="font-size: 36px; padding: 0; padding: 0; margin: 0;">Итак, вы решили<br> запустить доставку</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-wrapper background-color="#FFFFFF" padding="0 0 0 60px">
+
+      <mj-section background-color="#FFFFFF" padding="0 0 20px 0">
+        <mj-column width="20%">
+          <mj-image width="48px" align="left" src="https://sinicynapolina.ru/e-mail/images/icon-1.png" />
+        </mj-column>
+        <mj-column width="80%">
+          <mj-text css-class="text-mobile" color="#24363C" font-size="20px" font-weight="normal" font-family="Helvetica" line-height="26px" padding="10px 0 0 20px" align="left">
+            Проблемы с наймом и<br> контролем курьеров
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FFFFFF" padding="0 0 30px 0">
+        <mj-column width="20%">
+          <mj-image width="48px" align="left" src="https://sinicynapolina.ru/e-mail/images/icon-2.png" />
+        </mj-column>
+        <mj-column width="80%">
+          <mj-text css-class="text-mobile" color="#24363C" font-size="20px" font-weight="normal" font-family="Helvetica" line-height="26px" padding="10px 0 0 20px">
+            Частые простои или<br> нехватка курьеров
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FFFFFF" padding="0 0 30px 0">
+        <mj-column width="20%">
+          <mj-image width="48px" align="left" src="https://sinicynapolina.ru/e-mail/images/icon-3.png" />
+        </mj-column>
+        <mj-column width="80%">
+          <mj-text css-class="text-mobile" color="#24363C" font-size="20px" font-weight="normal" font-family="Helvetica" line-height="26px" padding="10px 0 0 20px">
+            Оплата отпусков,<br> больничных и ГСМ
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#FFFFFF" padding="0 0 40px 0">
+        <mj-column width="20%">
+          <mj-image width="48px" align="left" src="https://sinicynapolina.ru/e-mail/images/icon-4.png" />
+        </mj-column>
+        <mj-column width="80%">
+          <mj-text css-class="text-mobile" color="#24363C" font-size="20px" font-weight="normal" font-family="Helvetica" line-height="26px" padding="10px 0 0 20px">
+            Выстраивание системы<br> логистики
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-image width="480px" align="center" padding="20px" src="https://sinicynapolina.ru/e-mail/images/img-2.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text css-class="padding-mobile" color="#24363C" font-weight="bold" font-family="Helvetica" line-height="47px" align="left" padding="0 0 20px 60px">
+          <h1 style="font-size: 36px; padding: 0; margin: 0;"><span style="color: #F50373;">Редиска</span> спешит<br> вам на помощь!</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text css-class="text-mobile padding-mobile" color="#24363C" font-weight="normal" font-size="20px" font-family="Helvetica" line-height="30px" align="left" padding="0px 60px 10px 60px">
+          Измените подход к логистике ваших заказов с сервисом экспресс доставки!
+        </mj-text>
+        <mj-text css-class="text-mobile padding-mobile" color="#24363C" font-weight="normal" font-size="20px" font-family="Helvetica" line-height="30px" align="left" padding="0px 60px 20px 60px">
+          Рынок доставки каждый год растёт в разы, а мы растем и развиваемся вместе с ним.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="padding-mobile-special-offer" background-color="#FFFFFF" padding="0px 30px 20px 60px">
+      <mj-column background-color="#ecfafd" border-radius="20px" padding="0">
+        <mj-text color="#24363C" font-weight="bold" font-size="20px" font-family="Helvetica" line-height="26px" align="left" padding="20px">
+          Одна платформа — для автоматизации всей логистики!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0px 0px 40px 30px">
+      <mj-column>
+        <mj-button css-class="link" font-family="Helvetica" font-weight="bold" font-size="18px" color="#FFFFFF" background-color="#F50373" border-radius="60px" inner-padding="18px 36px" align="left" href="https://sinicynapolina.ru/">
+          Заказать курьера
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-image width="480px" align="center" padding="20px" src="https://sinicynapolina.ru/e-mail/images/img-3.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text css-class="padding-mobile" color="#24363C" font-weight="bold" font-family="Helvetica" line-height="47px" align="left" padding="0 0 20px 60px">
+          <h1 style="font-size: 36px; padding: 0; margin: 0;">Как это работает?</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text css-class="text-mobile padding-mobile" color="#3DC1EB" font-weight="bold" font-family="Helvetica" font-size="20px" line-height="30px" align="left" padding="0 20px 20px 60px">
+          <ol>
+            <li style="padding-bottom: 20px"><span style="padding-bottom: 20px; font-weight: normal; color: #24363C; padding-left: 5px;">Регистрация компании в <br>Редиске за пару кликов.</span></li>
+            <li style="padding-bottom: 20px"><span style="padding-bottom: 20px; font-weight: normal; color: #24363C; padding-left: 5px;">Оформление заказа в<br> удобной системе. </span></li>
+            <li style="padding-bottom: 20px"><span style="padding-bottom: 20px; font-weight: normal; color: #24363C; padding-left: 5px;">Курьер забирает заказ.</span></li>
+            <li><span style="padding-bottom: 20px; font-weight: normal; color: #24363C; padding-left: 5px;">Доставка заказа за 40 минут<br> вашему довольному клиенту.</span></li>
+          </ol>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text css-class="padding-mobile" color="#24363C" font-weight="bold" font-size="20px" font-family="Helvetica" line-height="30px" align="left" padding="0px 30px 10px 60px">
+          Хотите стать еще эффективнее?
+        </mj-text>
+        <mj-text css-class="text-mobile padding-mobile" color="#24363C" font-weight="normal" font-size="20px" font-family="Helvetica" line-height="30px" align="left" padding="0px 30px 20px 60px">
+          Подключите к сервису агрегаторы: <strong>Delivery Club Яндекс.Еда</strong> и управляйте доставкой в едином интерфейсе.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-image width="480px" align="center" padding="20px" src="https://sinicynapolina.ru/e-mail/images/img-4.png" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text css-class="padding-mobile" color="#24363C" font-weight="bold" font-family="Helvetica" line-height="47px" align="left" padding="0px 30px 20px 60px">
+          <h1 style="font-size: 36px; padding: 0; margin: 0;">Сколько это стоит?</h1>
+        </mj-text>
+        <mj-text css-class="text-mobile padding-mobile" color="#24363C" font-weight="normal" font-size="20px" font-family="Helvetica" line-height="30px" align="left" padding="0px 30px 20px 60px">
+          Никаких комиссий за заказ, плата за услугу является фиксированной.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="padding-mobile-special-offer" background-color="#FFFFFF" padding="0px 30px 20px 60px">
+      <mj-column background-color="#ecfafd" border-radius="20px" padding="0">
+        <mj-text color="#24363C" font-weight="bold" font-size="20px" font-family="Helvetica" line-height="26px" align="left" padding="20px">
+          Никаких подписок и обязательств!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0">
+      <mj-column>
+        <mj-text css-class="padding-mobile" color="#24363C" font-weight="bold" font-family="Helvetica" line-height="47px" align="left" padding="0px 30px 20px 60px">
+          <h1 style="font-size: 36px; padding: 0; margin: 0;">Интересно?</h1>
+        </mj-text>
+        <mj-text css-class="text-mobile padding-mobile" color="#24363C" font-weight="normal" font-size="20px" font-family="Helvetica" line-height="30px" align="left" padding="0px 30px 20px 60px">
+          В понедельник утром вы можете развозить заказы своими силами, но не хватает курьеров в пятницу вечером? Мы придем к вам на помощь!
+        </mj-text>
+        <mj-text css-class="text-mobile padding-mobile" color="#24363C" font-weight="normal" font-size="20px" font-family="Helvetica" line-height="30px" align="left" padding="0px 60px 20px 60px">
+          Начните экономить до 70% на доставке уже сегодня!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="padding-mobile-special-offer" background-color="#FFFFFF" padding="0px 30px 40px 60px">
+      <mj-column background-color="#ecfafd" border-radius="20px" padding="20px">
+        <mj-text color="#24363C" font-weight="bold" font-size="20px" font-family="Helvetica" line-height="26px" align="left" padding="0">
+          Подключайтесь –<br> первая доставка бесплатна!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 0 30px 0">
+      <mj-column>
+        <mj-button css-class="link" font-family="Helvetica" font-weight="bold" font-size="18px" color="#FFFFFF" background-color="#F50373" border-radius="60px" inner-padding="18px 36px" align="center" href="https://sinicynapolina.ru/">
+          Подключиться
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 0 50px 0">
+      <mj-column>
+        <mj-text font-weight="normal" font-size="20px" font-family="Helvetica" line-height="30px" align="center">
+          <a href="https://sinicynapolina.ru/" style="color: #3DC1EB;">rediska.express</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFFFFF" padding="0 30px 10px 0">
+      <mj-column>
+        <mj-text font-weight="normal" font-size="11px" font-family="Helvetica" line-height="30px" align="center">
+          <p>Вы получили это письмо, так как являетесь клиентом rediska.express. Если вы не хотите получать рассылку — отпишитесь, перейдя по <a href="https://sinicynapolina.ru/" style="color: #3DC1EB;">ссылке</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
